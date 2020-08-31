@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "777254099409",
+    "firebase_url": "https://smartar-1370d.firebaseio.com",
+    "project_id": "smartar-1370d",
+    "storage_bucket": "smartar-1370d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777254099409:android:1e678021063953699c28f0",
+        "android_client_info": {
+          "package_name": "com.example.smart_ar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777254099409-pisacctfnp926fpv9i5lsfdlfbibrr2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_ar",
+            "certificate_hash": "7809587528b3117f2982a76c7f4850833d5d7d59"
+          }
+        },
+        {
+          "client_id": "777254099409-t31cb2oloki54ef6j293bm3lhhv38hbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9CFnGt8b2xR0YnTin487SCu517IQib9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777254099409-t31cb2oloki54ef6j293bm3lhhv38hbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
